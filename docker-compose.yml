@@ -1,0 +1,17 @@
+# Postgres for the work sample. Nothing to configure.
+#   docker compose up -d
+#   -> postgresql://ws:ws@localhost:5432/worksample
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ws
+      POSTGRES_PASSWORD: ws
+      POSTGRES_DB: worksample
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ws -d worksample"]
+      interval: 5s
+      timeout: 5s
+      retries: 10

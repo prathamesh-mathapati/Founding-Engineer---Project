@@ -1,0 +1,172 @@
+{
+  "generated_at": "2026-08-21T06:27:54Z",
+  "source_dates": [
+    "2026-06-29",
+    "2026-06-30"
+  ],
+  "schemes_loaded": 149,
+  "schemes_excluded": 31,
+  "exclusions": [
+    {
+      "amfi_code": 100137,
+      "reason": "NAV value is N.A. on 2026-06-29"
+    },
+    {
+      "amfi_code": 100193,
+      "reason": "Duplicate conflicting NAV records on 2026-06-29"
+    },
+    {
+      "amfi_code": 100263,
+      "reason": "NAV value is N.A. on 2026-06-29"
+    },
+    {
+      "amfi_code": 102624,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102638,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102655,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102678,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102693,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102706,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102755,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102782,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102792,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102805,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102817,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102822,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102833,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102854,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102875,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102898,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102913,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102921,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102941,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102950,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102960,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102975,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 102993,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 103003,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 103025,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 103048,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 103071,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    },
+    {
+      "amfi_code": 103085,
+      "reason": "Scheme missing on day 2 (2026-06-30)"
+    }
+  ],
+  "by_amc": [
+    {
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "scheme_count": 22,
+      "median_1d_change_pct": 0.352
+    },
+    {
+      "amc": "Axis Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": -0.168
+    },
+    {
+      "amc": "HDFC Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": -0.128
+    },
+    {
+      "amc": "Kotak Mahindra Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": 0.3823
+    },
+    {
+      "amc": "Nippon India Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": 0.4985
+    },
+    {
+      "amc": "Quantum Mutual Fund",
+      "scheme_count": 2,
+      "median_1d_change_pct": 1.2795
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": 0.0478
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+﻿Scheme Code;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Date
+
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+Aditya Birla Sun Life Mutual Fund
+
+100104;INF209K01436C5;-;Aditya Birla Sun Life Bluechip Large Cap Fund - Regular Plan - Growth;779.3871;29-Jun-2026
+100128;INF209K01454B6;INF209K01684E1;Aditya Birla Sun Life Frontline Equity Large Cap Fund - Regular Plan - IDCW;75.4174;29-Jun-2026
+100134;INF209K01426B7;-;Aditya Birla Sun Life Liquid Large Cap Fund - Regular Plan - Growth;466.7051;29-Jun-2026
+100137;INF209K01899G5;-;Aditya Birla Sun Life Bluechip Large Cap Fund - Regular Plan - Growth;N.A.;29-Jun-2026
+100162;INF209K01391F2;-;Aditya Birla Sun Life Flexi Cap Large Cap Fund - Direct Plan - Growth;346.5264;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+Aditya Birla Sun Life Mutual Fund
+
+100177;INF209K01941H1;INF209K01576H9;Aditya Birla Sun Life Frontline Equity Mid Cap Fund - Regular Plan - IDCW;759.4580;29-Jun-2026
+100188;INF209K01840K4;INF209K01688A6;Aditya Birla Sun Life Frontline Equity Mid Cap Fund - Regular Plan - IDCW;246.4680;29-Jun-2026
+100193;INF209K01851A9;INF209K01890K1;Aditya Birla Sun Life Prime Mid Cap Fund - Direct Plan - IDCW;103.7425;29-Jun-2026
+100193;INF209K01851A9;INF209K01890K1;Aditya Birla Sun Life Prime Mid Cap Fund - Direct Plan - IDCW;104.0641;29-Jun-2026
+100220;INF209K01657H3;INF209K01532C3;Aditya Birla Sun Life Nifty Next 50 Mid Cap Fund - Direct Plan - IDCW;573.6494;29-Jun-2026
+100231;INF209K01278H5;INF209K01172A3;Aditya Birla Sun Life Nifty Next 50 Mid Cap Fund - Direct Plan - IDCW;60.4459;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+Aditya Birla Sun Life Mutual Fund
+
+100236;INF209K01451A6;-;Aditya Birla Sun Life Bluechip Small Cap Fund - Regular Plan - Growth;175.6902;29-Jun-2026
+100263;INF209K01351E4;-;Aditya Birla Sun Life Focused Small Cap Fund - Regular Plan - Growth;N.A.;29-Jun-2026
+100282;INF209K01269G1;-;Aditya Birla Sun Life Bluechip Small Cap Fund - Regular Plan - Growth;69.3382;29-Jun-2026
+100294;INF209K01385E7;INF209K01745J9;Aditya Birla Sun Life Frontline Equity Small Cap Fund - Regular Plan - IDCW;64.4045;29-Jun-2026
+100317;INF209K01101E2;INF209K01453K2;Aditya Birla Sun Life Frontline Equity Small Cap Fund - Regular Plan - IDCW;282.2045;29-Jun-2026
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+Aditya Birla Sun Life Mutual Fund
+
+100338;INF209K01800D2;-;Aditya Birla Sun Life Opportunities Liquid Fund - Direct Plan - Growth;507.6024;29-Jun-2026
+100356;INF209K01505H6;INF209K01467D9;Aditya Birla Sun Life Frontline Equity Liquid Fund - Regular Plan - IDCW;773.4111;29-Jun-2026
+100362;INF209K01919C5;-;Aditya Birla Sun Life Liquid Liquid Fund - Regular Plan - Growth;171.8551;29-Jun-2026
+100386;INF209K01811H1;INF209K01444J8;Aditya Birla Sun Life Balanced Advantage Liquid Fund - Regular Plan - IDCW;175.5895;29-Jun-2026
+100401;INF209K01192D8;INF209K01538E5;Aditya Birla Sun Life Frontline Equity Liquid Fund - Regular Plan - IDCW;184.9308;29-Jun-2026
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+Aditya Birla Sun Life Mutual Fund
+
+100421;INF209K01243B6;INF209K01777K1;Aditya Birla Sun Life Value Discovery Aggressive Hybrid Fund - Regular Plan - IDCW;302.1642;29-Jun-2026
+100441;INF209K01384F2;-;Aditya Birla Sun Life Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;339.6464;29-Jun-2026
+100452;INF209K01481G2;-;Aditya Birla Sun Life Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;481.1040;29-Jun-2026
+100464;INF209K01507H4;INF209K01633K4;Aditya Birla Sun Life Emerging Equity Aggressive Hybrid Fund - Direct Plan - IDCW;512.8245;29-Jun-2026
+100469;INF209K01127K5;INF209K01284B2;Aditya Birla Sun Life Balanced Advantage Aggressive Hybrid Fund - Regular Plan - IDCW;173.5641;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+Axis Mutual Fund
+
+100475;INF846K01512E1;INF846K01744E6;Axis Nifty Next 50 Large Cap Fund - Direct Plan - IDCW;705.6047;29-Jun-2026
+100500;INF846K01923K1;INF846K01391B1;Axis Frontline Equity Large Cap Fund - Regular Plan - IDCW;486.4598;29-Jun-2026
+100526;INF846K01111D9;-;Axis Focused Large Cap Fund - Regular Plan - Growth;647.7477;29-Jun-2026
+100541;INF846K01338A1;-;Axis Liquid Large Cap Fund - Regular Plan - Growth;362.9288;29-Jun-2026
+100570;INF846K01277H5;-;Axis Flexi Cap Large Cap Fund - Direct Plan - Growth;430.6885;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+Axis Mutual Fund
+
+100589;INF846K01712B8;INF846K01253D8;Axis Value Discovery Mid Cap Fund - Regular Plan - IDCW;283.8761;29-Jun-2026
+100611;INF846K01753G7;-;Axis Focused Mid Cap Fund - Regular Plan - Growth;321.4369;29-Jun-2026
+100632;INF846K01451H3;-;Axis Flexi Cap Mid Cap Fund - Direct Plan - Growth;534.1810;29-Jun-2026
+100658;INF846K01265C9;INF846K01352D3;Axis Value Discovery Mid Cap Fund - Regular Plan - IDCW;290.6699;29-Jun-2026
+100675;INF846K01439H6;INF846K01575F7;Axis Nifty Next 50 Mid Cap Fund - Direct Plan - IDCW;270.9637;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+Axis Mutual Fund
+
+100684;INF846K01197B1;-;Axis Focused Small Cap Fund - Regular Plan - Growth;527.5099;29-Jun-2026
+100695;INF846K01599F8;-;Axis Focused Small Cap Fund - Regular Plan - Growth;198.8667;29-Jun-2026
+100711;INF846K01119G9;INF846K01316A2;Axis Balanced Advantage Small Cap Fund - Regular Plan - IDCW;129.7814;29-Jun-2026
+100716;INF846K01418C6;INF846K01470K6;Axis Emerging Equity Small Cap Fund - Direct Plan - IDCW;624.7324;29-Jun-2026
+100720;INF846K01622G2;-;Axis Liquid Small Cap Fund - Regular Plan - Growth;518.0846;29-Jun-2026
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+Axis Mutual Fund
+
+100745;INF846K01560F9;INF846K01861B2;Axis Value Discovery Liquid Fund - Regular Plan - IDCW;467.7342;29-Jun-2026
+100763;INF846K01651J2;-;Axis Bluechip Liquid Fund - Regular Plan - Growth;480.0999;29-Jun-2026
+100767;INF846K01168F6;INF846K01611H2;Axis Value Discovery Liquid Fund - Regular Plan - IDCW;688.6510;29-Jun-2026
+100783;INF846K01779K5;-;Axis Equity Hybrid Liquid Fund - Direct Plan - Growth;50.5059;29-Jun-2026
+100801;INF846K01473J1;INF846K01398F4;Axis Value Discovery Liquid Fund - Regular Plan - IDCW;159.9587;29-Jun-2026
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+Axis Mutual Fund
+
+100814;INF846K01693A6;-;Axis Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;461.9325;29-Jun-2026
+100841;INF846K01469C8;-;Axis Opportunities Aggressive Hybrid Fund - Direct Plan - Growth;361.2620;29-Jun-2026
+100859;INF846K01254J3;INF846K01909K6;Axis Frontline Equity Aggressive Hybrid Fund - Regular Plan - IDCW;435.5951;29-Jun-2026
+100871;INF846K01176D6;-;Axis Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;173.1197;29-Jun-2026
+100883;INF846K01978E3;INF846K01406D1;Axis Emerging Equity Aggressive Hybrid Fund - Direct Plan - IDCW;45.2554;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+HDFC Mutual Fund
+
+100897;INF179K01406C1;INF179K01671A4;HDFC Frontline Equity Large Cap Fund - Regular Plan - IDCW;590.7722;2026-06-29
+100901;INF179K01597J9;-;HDFC Opportunities Large Cap Fund - Direct Plan - Growth;663.5013;2026-06-29
+100916;INF179K01797D7;-;HDFC Equity Hybrid Large Cap Fund - Direct Plan - Growth;239.7696;2026-06-29
+100944;INF179K01424G2;INF179K01585K1;HDFC Emerging Equity Large Cap Fund - Direct Plan - IDCW;205.3438;2026-06-29
+100971;INF179K01242K2;INF179K01285B2;HDFC Prime Large Cap Fund - Direct Plan - IDCW;484.9584;2026-06-29
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+HDFC Mutual Fund
+
+100996;INF179K01720C3;-;HDFC Focused Mid Cap Fund - Regular Plan - Growth;477.6537;2026-06-29
+101008;INF179K01821A6;INF179K01425J7;HDFC Value Discovery Mid Cap Fund - Regular Plan - IDCW;778.3714;2026-06-29
+101033;INF179K01991H4;INF179K01905K5;HDFC Prime Mid Cap Fund - Direct Plan - IDCW;514.7880;2026-06-29
+101062;INF179K01370F1;INF179K01128B7;HDFC Frontline Equity Mid Cap Fund - Regular Plan - IDCW;670.0231;2026-06-29
+101075;INF179K01809J6;INF179K01781C1;HDFC Emerging Equity Mid Cap Fund - Direct Plan - IDCW;471.6042;2026-06-29
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+HDFC Mutual Fund
+
+101098;INF179K01170A4;-;HDFC Equity Hybrid Small Cap Fund - Direct Plan - Growth;397.5159;2026-06-29
+101119;INF179K01603E2;-;HDFC Liquid Small Cap Fund - Regular Plan - Growth;98.7097;2026-06-29
+101125;INF179K01584A9;INF179K01842G7;HDFC Emerging Equity Small Cap Fund - Direct Plan - IDCW;525.8328;2026-06-29
+101150;INF179K01177K8;INF179K01660A8;HDFC Value Discovery Small Cap Fund - Regular Plan - IDCW;513.6636;2026-06-29
+101179;INF179K01116C6;INF179K01569B5;HDFC Nifty Next 50 Small Cap Fund - Direct Plan - IDCW;438.4368;2026-06-29
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+HDFC Mutual Fund
+
+101193;INF179K01428D3;INF179K01842G9;HDFC Balanced Advantage Liquid Fund - Regular Plan - IDCW;469.3113;2026-06-29
+101205;INF179K01248H5;-;HDFC Equity Hybrid Liquid Fund - Direct Plan - Growth;234.5555;2026-06-29
+101221;INF179K01746H7;INF179K01976D2;HDFC Emerging Equity Liquid Fund - Direct Plan - IDCW;561.9909;2026-06-29
+101237;INF179K01852H9;-;HDFC Liquid Liquid Fund - Regular Plan - Growth;283.2160;2026-06-29
+101260;INF179K01362F2;-;HDFC Liquid Liquid Fund - Regular Plan - Growth;616.9899;2026-06-29
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+HDFC Mutual Fund
+
+101277;INF179K01391B4;INF179K01840D2;HDFC Balanced Advantage Aggressive Hybrid Fund - Regular Plan - IDCW;621.2631;2026-06-29
+101299;INF179K01514E3;-;HDFC Liquid Aggressive Hybrid Fund - Regular Plan - Growth;331.4894;2026-06-29
+101328;INF179K01428F3;-;HDFC Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;213.1094;2026-06-29
+101347;INF179K01165G5;-;HDFC Equity Hybrid Aggressive Hybrid Fund - Direct Plan - Growth;558.0307;2026-06-29
+101356;INF179K01984J1;-;HDFC Liquid Aggressive Hybrid Fund - Regular Plan - Growth;99.8856;2026-06-29
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+Kotak Mahindra Mutual Fund
+
+101368;INF174K01555H4;-;Kotak Mahindra Focused Large Cap Fund - Regular Plan - Growth;641.9152;29-Jun-2026
+101387;INF174K01883C2;-;Kotak Mahindra Bluechip Large Cap Fund - Regular Plan - Growth;513.0713;29-Jun-2026
+101396;INF174K01897B2;-;Kotak Mahindra Equity Hybrid Large Cap Fund - Direct Plan - Growth;533.7446;29-Jun-2026
+101417;INF174K01766A4;-;Kotak Mahindra Liquid Large Cap Fund - Regular Plan - Growth;187.3842;29-Jun-2026
+101420;INF174K01499F4;-;Kotak Mahindra Bluechip Large Cap Fund - Regular Plan - Growth;661.4527;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+Kotak Mahindra Mutual Fund
+
+101439;INF174K01185C7;INF174K01179F9;Kotak Mahindra Emerging Equity Mid Cap Fund - Direct Plan - IDCW;645.2589;29-Jun-2026   
+101462;INF174K01293F5;INF174K01383K1;Kotak Mahindra Emerging Equity Mid Cap Fund - Direct Plan - IDCW;235.1727;29-Jun-2026
+101479;INF174K01663E9;INF174K01845D9;Kotak Mahindra Balanced Advantage Mid Cap Fund - Regular Plan - IDCW;275.8130;29-Jun-2026
+101495;INF174K01812J6;-;Kotak Mahindra Flexi Cap Mid Cap Fund - Direct Plan - Growth;545.5693;29-Jun-2026
+101498;INF174K01649K4;-;Kotak Mahindra Opportunities Mid Cap Fund - Direct Plan - Growth;314.0738;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+Kotak Mahindra Mutual Fund
+
+101520;INF174K01106A8;-;Kotak Mahindra Bluechip Small Cap Fund - Regular Plan - Growth;158.2027;29-Jun-2026   
+101530;INF174K01654E5;INF174K01526J9;Kotak Mahindra Nifty Next 50 Small Cap Fund - Direct Plan - IDCW;475.1126;29-Jun-2026
+101537;INF174K01300B5;INF174K01722C5;Kotak Mahindra Prime Small Cap Fund - Direct Plan - IDCW;263.4427;29-Jun-2026
+101557;INF174K01427H5;-;Kotak Mahindra Focused Small Cap Fund - Regular Plan - Growth;152.6445;29-Jun-2026
+101568;INF174K01992H3;-;Kotak Mahindra Focused Small Cap Fund - Regular Plan - Growth;328.9955;29-Jun-2026   
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+Kotak Mahindra Mutual Fund
+
+101574;INF174K01305C8;-;Kotak Mahindra Opportunities Liquid Fund - Direct Plan - Growth;554.3357;29-Jun-2026   
+101588;INF174K01172F1;INF174K01524E1;Kotak Mahindra Balanced Advantage Liquid Fund - Regular Plan - IDCW;314.9080;29-Jun-2026
+101612;INF174K01129A2;-;Kotak Mahindra Equity Hybrid Liquid Fund - Direct Plan - Growth;57.4482;29-Jun-2026
+101634;INF174K01711G3;INF174K01960F8;Kotak Mahindra Balanced Advantage Liquid Fund - Regular Plan - IDCW;74.9276;29-Jun-2026   
+101637;INF174K01753C6;INF174K01928A6;Kotak Mahindra Frontline Equity Liquid Fund - Regular Plan - IDCW;439.0976;29-Jun-2026   
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+Kotak Mahindra Mutual Fund
+
+101654;INF174K01644K9;-;Kotak Mahindra Flexi Cap Aggressive Hybrid Fund - Direct Plan - Growth;151.4824;29-Jun-2026
+101674;INF174K01903A2;INF174K01835D3;Kotak Mahindra Nifty Next 50 Aggressive Hybrid Fund - Direct Plan - IDCW;29.4682;29-Jun-2026
+101683;INF174K01810D8;INF174K01366E4;Kotak Mahindra Balanced Advantage Aggressive Hybrid Fund - Regular Plan - IDCW;410.2063;29-Jun-2026
+101696;INF174K01750H2;INF174K01261D9;Kotak Mahindra Nifty Next 50 Aggressive Hybrid Fund - Direct Plan - IDCW;329.4272;29-Jun-2026
+101724;INF174K01124C7;-;Kotak Mahindra Focused Aggressive Hybrid Fund - Regular Plan - Growth;207.0253;29-Jun-2026   
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+Nippon India Mutual Fund
+
+101735;INF204K01529J6;INF204K01136D1;Nippon India Nifty Next 50 Large Cap Fund - Direct Plan - IDCW;726.1120;29-Jun-2026
+101761;INF204K01821E2;-;Nippon India Flexi Cap Large Cap Fund - Direct Plan - Growth;185.7983;29-Jun-2026
+101790;INF204K01759B8;-;Nippon India Liquid Large Cap Fund - Regular Plan - Growth;294.9249;29-Jun-2026
+101807;INF204K01124G9;-;Nippon India Flexi Cap Large Cap Fund - Direct Plan - Growth;390.7240;29-Jun-2026
+101835;INF204K01850E7;INF204K01586A5;Nippon India Prime Large Cap Fund - Direct Plan - IDCW;729.1360;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+Nippon India Mutual Fund
+
+101849;INF204K01535H9;INF204K01226D1;Nippon India Value Discovery Mid Cap Fund - Regular Plan - IDCW;247.0486;29-Jun-2026
+101857;INF204K01592E4;-;Nippon India Flexi Cap Mid Cap Fund - Direct Plan - Growth;662.7664;29-Jun-2026
+101870;INF204K01217A1;-;Nippon India Focused Mid Cap Fund - Regular Plan - Growth;410.4714;29-Jun-2026
+101878;INF204K01431H1;INF204K01260E3;Nippon India Frontline Equity Mid Cap Fund - Regular Plan - IDCW;298.6952;29-Jun-2026
+101900;INF204K01441A9;-;Nippon India Bluechip Mid Cap Fund - Regular Plan - Growth;112.1258;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+Nippon India Mutual Fund
+
+101920;INF204K01564C4;-;Nippon India Focused Small Cap Fund - Regular Plan - Growth;136.0790;29-Jun-2026
+101923;INF204K01659E5;-;Nippon India Liquid Small Cap Fund - Regular Plan - Growth;226.7084;29-Jun-2026
+101939;INF204K01898C7;INF204K01403C1;Nippon India Frontline Equity Small Cap Fund - Regular Plan - IDCW;205.0545;29-Jun-2026
+101964;INF204K01218G7;INF204K01551F4;Nippon India Emerging Equity Small Cap Fund - Direct Plan - IDCW;195.6375;29-Jun-2026
+101990;INF204K01606G7;-;Nippon India Opportunities Small Cap Fund - Direct Plan - Growth;335.4332;29-Jun-2026
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+Nippon India Mutual Fund
+
+102000;INF204K01272B3;-;Nippon India Bluechip Liquid Fund - Regular Plan - Growth;659.0408;29-Jun-2026
+102009;INF204K01379K5;-;Nippon India Equity Hybrid Liquid Fund - Direct Plan - Growth;636.6159;29-Jun-2026
+102037;INF204K01614B8;INF204K01965B4;Nippon India Emerging Equity Liquid Fund - Direct Plan - IDCW;360.8136;29-Jun-2026
+102064;INF204K01138A5;INF204K01955J9;Nippon India Prime Liquid Fund - Direct Plan - IDCW;381.0866;29-Jun-2026
+102085;INF204K01209C5;INF204K01615K3;Nippon India Value Discovery Liquid Fund - Regular Plan - IDCW;626.8850;29-Jun-2026
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+Nippon India Mutual Fund
+
+102107;INF204K01412B2;INF204K01549G4;Nippon India Nifty Next 50 Aggressive Hybrid Fund - Direct Plan - IDCW;418.1126;29-Jun-2026
+102134;INF204K01118K9;INF204K01534C9;Nippon India Emerging Equity Aggressive Hybrid Fund - Direct Plan - IDCW;208.4799;29-Jun-2026
+102149;INF204K01794J2;INF204K01243B9;Nippon India Prime Aggressive Hybrid Fund - Direct Plan - IDCW;385.9007;29-Jun-2026
+102174;INF204K01376E4;INF204K01369F7;Nippon India Balanced Advantage Aggressive Hybrid Fund - Regular Plan - IDCW;250.7332;29-Jun-2026
+102186;INF204K01152J2;-;Nippon India Equity Hybrid Aggressive Hybrid Fund - Direct Plan - Growth;500.5447;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+SBI Mutual Fund
+
+102206;INF200K01361C6;-;SBI Flexi Cap Large Cap Fund - Direct Plan - Growth;176.4118;29-Jun-2026
+102229;INF200K01320B2;-;SBI Flexi Cap Large Cap Fund - Direct Plan - Growth;393.9171;29-Jun-2026
+102250;INF200K01548H2;-;SBI Bluechip Large Cap Fund - Regular Plan - Growth;471.3320;29-Jun-2026
+102266;INF200K01309E8;INF200K01201F7;SBI Value Discovery Large Cap Fund - Regular Plan - IDCW;779.8442;29-Jun-2026
+102291;INF200K01333K1;INF200K01196A6;SBI Prime Large Cap Fund - Direct Plan - IDCW;325.0925;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+SBI Mutual Fund
+
+102299;INF200K01468F3;INF200K01213K2;SBI Nifty Next 50 Mid Cap Fund - Direct Plan - IDCW;467.6405;29-Jun-2026
+102308;INF200K01209B1;INF200K01516J4;SBI Balanced Advantage Mid Cap Fund - Regular Plan - IDCW;606.1002;29-Jun-2026
+102330;INF200K01833K7;-;SBI Liquid Mid Cap Fund - Regular Plan - Growth;418.9463;29-Jun-2026
+102339;INF200K01946B7;-;SBI Opportunities Mid Cap Fund - Direct Plan - Growth;611.3465;29-Jun-2026
+102365;INF200K01263D5;INF200K01943G1;SBI Balanced Advantage Mid Cap Fund - Regular Plan - IDCW;593.5840;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+SBI Mutual Fund
+
+102377;INF200K01491G6;INF200K01860E4;SBI Value Discovery Small Cap Fund - Regular Plan - IDCW;349.8971;29-Jun-2026
+102382;INF200K01505A7;INF200K01637D7;SBI Nifty Next 50 Small Cap Fund - Direct Plan - IDCW;451.2012;29-Jun-2026
+102390;INF200K01586F7;-;SBI Liquid Small Cap Fund - Regular Plan - Growth;722.4938;29-Jun-2026
+102412;INF200K01986A7;INF200K01306F9;SBI Prime Small Cap Fund - Direct Plan - IDCW;704.8545;29-Jun-2026
+102419;INF200K01495H7;INF200K01555K7;SBI Emerging Equity Small Cap Fund - Direct Plan - IDCW;579.6886;29-Jun-2026
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+SBI Mutual Fund
+
+102443;INF200K01229F3;INF200K01353F7;SBI Nifty Next 50 Liquid Fund - Direct Plan - IDCW;419.9239;29-Jun-2026
+102460;INF200K01385J5;INF200K01289K3;SBI Value Discovery Liquid Fund - Regular Plan - IDCW;517.0291;29-Jun-2026
+102487;INF200K01233A8;INF200K01202G8;SBI Balanced Advantage Liquid Fund - Regular Plan - IDCW;355.8962;29-Jun-2026
+102492;INF200K01334B1;INF200K01681H4;SBI Emerging Equity Liquid Fund - Direct Plan - IDCW;532.0477;29-Jun-2026
+102497;INF200K01714F3;INF200K01189F2;SBI Balanced Advantage Liquid Fund - Regular Plan - IDCW;255.2850;29-Jun-2026
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+SBI Mutual Fund
+
+102503;INF200K01661D3;INF200K01651G3;SBI Nifty Next 50 Aggressive Hybrid Fund - Direct Plan - IDCW;567.3568;29-Jun-2026
+102520;INF200K01101D9;INF200K01342D9;SBI Value Discovery Aggressive Hybrid Fund - Regular Plan - IDCW;382.2195;29-Jun-2026
+102537;INF200K01883J9;INF200K01861D6;SBI Nifty Next 50 Aggressive Hybrid Fund - Direct Plan - IDCW;93.0342;29-Jun-2026
+102547;INF200K01803D1;-;SBI Equity Hybrid Aggressive Hybrid Fund - Direct Plan - Growth;114.2680;29-Jun-2026
+102570;INF200K01763D4;-;SBI Equity Hybrid Aggressive Hybrid Fund - Direct Plan - Growth;689.3104;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+Quantum Mutual Fund
+
+102589;INF082J01804B6;INF082J01208A2;Quantum Frontline Equity Large Cap Fund - Regular Plan - IDCW;216.4265;29-Jun-2026
+102598;INF082J01757C3;INF082J01292K7;Quantum Nifty Next 50 Large Cap Fund - Direct Plan - IDCW;156.8919;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+Quantum Mutual Fund
+
+102624;INF082J01391D4;-;Quantum Bluechip Mid Cap Fund - Regular Plan - Growth;78.8332;29-Jun-2026
+102638;INF082J01611B1;INF082J01985J1;Quantum Emerging Equity Mid Cap Fund - Direct Plan - IDCW;424.9113;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+Quantum Mutual Fund
+
+102655;INF082J01796G7;INF082J01626E6;Quantum Prime Small Cap Fund - Direct Plan - IDCW;272.5171;29-Jun-2026
+102678;INF082J01155K2;INF082J01125B8;Quantum Prime Small Cap Fund - Direct Plan - IDCW;229.3996;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+
+ICICI Prudential Mutual Fund
+
+102693;INF109K01982G8;INF109K01617A4;ICICI Prudential Balanced Advantage Large Cap Fund - Regular Plan - IDCW;526.3674;29-Jun-2026
+102706;INF109K01169H5;INF109K01698C3;ICICI Prudential Nifty Next 50 Large Cap Fund - Direct Plan - IDCW;608.0629;29-Jun-2026
+102735;INF109K01457J5;ICICI Prudential Value Discovery Large Cap Fund - Regular Plan - IDCW;548.7571;29-Jun-2026
+102755;INF109K01470B7;-;ICICI Prudential Flexi Cap Large Cap Fund - Direct Plan - Growth;358.8506;29-Jun-2026
+102782;INF109K01341C3;-;ICICI Prudential Opportunities Large Cap Fund - Direct Plan - Growth;245.9548;29-Jun-2026
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+
+ICICI Prudential Mutual Fund
+
+102792;INF109K01979F1;-;ICICI Prudential Bluechip Mid Cap Fund - Regular Plan - Growth;612.4126;29-Jun-2026
+102805;INF109K01448D7;-;ICICI Prudential Flexi Cap Mid Cap Fund - Direct Plan - Growth;729.2489;29-Jun-2026
+102817;INF109K01229B1;INF109K01207K1;ICICI Prudential Emerging Equity Mid Cap Fund - Direct Plan - IDCW;258.4399;29-Jun-2026
+102822;INF109K01652J3;INF109K01241B1;ICICI Prudential Balanced Advantage Mid Cap Fund - Regular Plan - IDCW;179.6964;29-Jun-2026
+102833;INF109K01369D5;INF109K01683K2;ICICI Prudential Balanced Advantage Mid Cap Fund - Regular Plan - IDCW;311.0755;29-Jun-2026;
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+
+ICICI Prudential Mutual Fund
+
+102854;INF109K01994J4;-;ICICI Prudential Flexi Cap Small Cap Fund - Direct Plan - Growth;163.6399;29-Jun-2026
+102875;INF109K01249G2;-;ICICI Prudential Bluechip Small Cap Fund - Regular Plan - Growth;187.7541;29-Jun-2026
+102898;INF109K01691K6;-;ICICI Prudential Bluechip Small Cap Fund - Regular Plan - Growth;767.3635;29-Jun-2026
+102913;INF109K01776A4;-;ICICI Prudential Focused Small Cap Fund - Regular Plan - Growth;751.8506;29-Jun-2026
+102921;INF109K01309D8;INF109K01245K2;ICICI Prudential Frontline Equity Small Cap Fund - Regular Plan - IDCW;626.5669;29-Jun-2026
+
+Open Ended Schemes(Debt Scheme - Liquid Fund)
+
+ICICI Prudential Mutual Fund
+
+102941;INF109K01255E1;INF109K01906A6;ICICI Prudential Value Discovery Liquid Fund - Regular Plan - IDCW;654.7022;29-Jun-2026
+102950;INF109K01787J7;INF109K01280J8;ICICI Prudential Emerging Equity Liquid Fund - Direct Plan - IDCW;419.3493;29-Jun-2026
+102960;INF109K01984D8;-;ICICI Prudential Flexi Cap Liquid Fund - Direct Plan - Growth;496.3258;29-Jun-2026
+102975;INF109K01804J2;-;ICICI Prudential Opportunities Liquid Fund - Direct Plan - Growth;254.9208;29-Jun-2026
+102993;INF109K01142D3;INF109K01296B5;ICICI Prudential Frontline Equity Liquid Fund - Regular Plan - IDCW;585.8930;29-Jun-2026
+
+Open Ended Schemes(Hybrid Scheme - Aggressive Hybrid Fund)
+
+ICICI Prudential Mutual Fund
+
+103003;INF109K01672J2;INF109K01939C4;ICICI Prudential Prime Aggressive Hybrid Fund - Direct Plan - IDCW;718.5553;29-Jun-2026
+103025;INF109K01635D9;-;ICICI Prudential Opportunities Aggressive Hybrid Fund - Direct Plan - Growth;660.9159;29-Jun-2026
+103048;INF109K01971D7;-;ICICI Prudential Opportunities Aggressive Hybrid Fund - Direct Plan - Growth;285.3965;29-Jun-2026
+103071;INF109K01893G5;-;ICICI Prudential Opportunities Aggressive Hybrid Fund - Direct Plan - Growth;468.5655;29-Jun-2026
+103085;INF109K01483B9;INF109K01775D6;ICICI Prudential Balanced Advantage Aggressive Hybrid Fund - Regular Plan - IDCW;189.6242;29-Jun-2026
