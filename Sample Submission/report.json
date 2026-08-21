@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-11T11:48:48.389025",
+  "source_dates": [
+    "2026-06-29",
+    "2026-06-30"
+  ],
+  "schemes_loaded": 124,
+  "schemes_excluded": 0,
+  "exclusions": [],
+  "by_amc": [
+    {
+      "amc": "Aditya Birla Sun Life Mutual Fund",
+      "scheme_count": 23,
+      "median_1d_change_pct": 0.39
+    },
+    {
+      "amc": "Axis Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": -0.17
+    },
+    {
+      "amc": "Kotak Mahindra Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": 0.38
+    },
+    {
+      "amc": "Nippon India Mutual Fund",
+      "scheme_count": 25,
+      "median_1d_change_pct": 0.5
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme_count": 24,
+      "median_1d_change_pct": 0.2
+    },
+    {
+      "amc": "Quantum Mutual Fund",
+      "scheme_count": 2,
+      "median_1d_change_pct": 1.28
+    }
+  ],
+  "total_rows_processed": 283
+}
